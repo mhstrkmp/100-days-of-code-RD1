@@ -1,10 +1,3 @@
-# To Do before Committing to GitHub
-- Change Dates at [Rules](rules.md) and [Log](log.md)
-- Change [Rules](rules.md) if necessary
-- Change [Resources] if necessary
-- Add a Description of what I want to achieve
-- Change About Section
-
 # I've joined the #100DaysOfCode Challenge
 
 ## Contents
