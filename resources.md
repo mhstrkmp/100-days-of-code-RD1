@@ -6,7 +6,7 @@
 1. [FreeCodeCamp](https://www.freecodecamp.com)
 
 ## Other resources
-
+1. List with different gradients - [uigradients.com](https://uigradients.com/)
 ## Books (both coding and non-coding)
 
 ### Non-Coding
