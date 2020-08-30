@@ -17,3 +17,11 @@ Learned a lot about:
 
 I used the lessons at [freeCodeCamp.org](https://www.freecodecamp.org/)
 
+### R1D3
+Working my way through the Responsive Web Design Path by [freeCodeCamp.org](https://www.freecodecamp.org/) 
+
+Made a very basic website as part of the Projects:
+https://codepen.io/mhstrkmp/pen/JjXJpNW
+
+Learned more about Flexbox with:
+[Flexbox Zombies](https://geddski.teachable.com/p/flexbox-zombies)
