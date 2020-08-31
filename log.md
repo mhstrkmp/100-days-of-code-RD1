@@ -25,3 +25,15 @@ https://codepen.io/mhstrkmp/pen/JjXJpNW
 
 Learned more about Flexbox with:
 [Flexbox Zombies](https://geddski.teachable.com/p/flexbox-zombies)
+
+### R1D4
+Working my way through the Responsive Web Design Path by [freeCodeCamp.org](https://www.freecodecamp.org/) 
+
+Made a very basic website with survey as part of the Projects:
+https://codepen.io/mhstrkmp/pen/yLOXreK
+
+Again learned some more about Flexbox with:
+[Flexbox Zombies](https://geddski.teachable.com/p/flexbox-zombies)
+
+
+
