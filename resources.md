@@ -4,6 +4,7 @@
 
 ## Projects and Ideas
 1. [FreeCodeCamp](https://www.freecodecamp.com)
+2. [flexboxpatterns](https://www.flexboxpatterns.com/)
 
 ## Other resources
 1. List with different gradients - [uigradients.com](https://uigradients.com/)
