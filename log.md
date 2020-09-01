@@ -35,5 +35,13 @@ https://codepen.io/mhstrkmp/pen/yLOXreK
 Again learned some more about Flexbox with:
 [Flexbox Zombies](https://geddski.teachable.com/p/flexbox-zombies)
 
+### R1D5
+Digging further through the Responsive Web Design Path by [freeCodeCamp.org](https://www.freecodecamp.org/) 
 
+Started with the Product Page as part of the Path.
+
+Again learned some more about Flexbox with:
+[Flexbox Zombies](https://geddski.teachable.com/p/flexbox-zombies)
+
+Overall a great day 🚀
 
