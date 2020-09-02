@@ -45,3 +45,9 @@ Again learned some more about Flexbox with:
 
 Overall a great day 🚀
 
+### R1D6
+- Responsive Web Design Path by [freeCodeCamp.org](https://www.freecodecamp.org/) 
+
+- Made a Product website as part of the Projects: https://codepen.io/mhstrkmp/pen/jOqLRdx
+
+
