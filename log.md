@@ -50,4 +50,11 @@ Overall a great day 🚀
 
 - Made a Product website as part of the Projects: https://codepen.io/mhstrkmp/pen/jOqLRdx
 
+### R1D6
+- Responsive Web Design Path by [freeCodeCamp.org](https://www.freecodecamp.org/) 
+
+- Worked on the Technical Documentation Page as part of the Path.
+
+Sometimes you have to go the extra mile and make your day longer than 24 hours if you want to reach your goals ...
+
 
