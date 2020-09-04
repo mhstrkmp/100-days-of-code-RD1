@@ -57,4 +57,13 @@ Overall a great day 🚀
 
 Sometimes you have to go the extra mile and make your day longer than 24 hours if you want to reach your goals ...
 
+### R1D8
+- Responsive Web Design Path by [freeCodeCamp.org](https://www.freecodecamp.org/) 
+
+- Worked on the Technical Documentation Page as part of the Path.
+  - Especially the usage of code blocks.
+  - You have to encode HTML Entities like <> by hand or use a syntax highliter like prism.js 
+  
+
+
 
