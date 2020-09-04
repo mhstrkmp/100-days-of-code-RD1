@@ -9,6 +9,7 @@
 ## Other resources
 1. List with different gradients - [uigradients.com](https://uigradients.com/)
 2. Prism syntax highlighter - [prismjs.com](https://prismjs.com/)
+3. Web 2.0 Generators - [web2generators.com](https://www.web2generators.com/)
 
 ## Books (both coding and non-coding)
 
