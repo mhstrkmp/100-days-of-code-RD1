@@ -62,7 +62,14 @@ Sometimes you have to go the extra mile and make your day longer than 24 hours i
 
 - Worked on the Technical Documentation Page as part of the Path.
   - Especially the usage of code blocks.
-  - You have to encode HTML Entities like <> by hand or use a syntax highliter like prism.js 
+  - You have to encode HTML Entities like <> by hand or use a syntax highliter like prism.js
+  
+### R1D9
+Responsive Web Design Path by [freeCodeCamp.org](https://www.freecodecamp.org/) 
+
+- Worked on the Technical Documentation Page as part of the Path.
+- Again learned some more about Flexbox with:
+[Flexbox Zombies](https://geddski.teachable.com/p/flexbox-zombies)
   
 
 
