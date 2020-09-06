@@ -70,7 +70,12 @@ Responsive Web Design Path by [freeCodeCamp.org](https://www.freecodecamp.org/)
 - Worked on the Technical Documentation Page as part of the Path.
 - Again learned some more about Flexbox with:
 [Flexbox Zombies](https://geddski.teachable.com/p/flexbox-zombies)
-  
+
+### R1D10
+Responsive Web Design Path by [freeCodeCamp.org](https://www.freecodecamp.org/) 
+- Today refreshed some HTML, CSS and Git.
+
+   
 
 
 
