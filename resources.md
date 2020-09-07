@@ -11,6 +11,7 @@
 2. Prism syntax highlighter - [prismjs.com](https://prismjs.com/)
 3. Web 2.0 Generators - [web2generators.com](https://www.web2generators.com/)
 4. Heroicons - [heroicons.dev](https://heroicons.dev/)
+5. Hero Patterns - [heropatterns.com](https://www.heropatterns.com/)
 
 ## Books (both coding and non-coding)
 
