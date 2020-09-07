@@ -77,7 +77,7 @@ Responsive Web Design Path by [freeCodeCamp.org](https://www.freecodecamp.org/)
 
 ### R1D11
 Responsive Web Design Path by [freeCodeCamp.org](https://www.freecodecamp.org/) 
-- Today i made kind of a Technical Documentation Page as part of the path. (https://codepen.io/mhstrkmp/pen/VwarPby)
+- Today i made kind of a Technical Documentation Page as part of the path. https://codepen.io/mhstrkmp/pen/VwarPby
 
    
 
