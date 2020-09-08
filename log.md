@@ -79,6 +79,13 @@ Responsive Web Design Path by [freeCodeCamp.org](https://www.freecodecamp.org/)
 Responsive Web Design Path by [freeCodeCamp.org](https://www.freecodecamp.org/) 
 - Today i made kind of a Technical Documentation Page as part of the path. https://codepen.io/mhstrkmp/pen/VwarPby
 
+### R1D12
+Responsive Web Design Path by [freeCodeCamp.org](https://www.freecodecamp.org/) 
+- Today I started to build the Portfolio Page as part of the path.
+
+Code comes more and more out of my brain.
+I have to spend less time looking up how things are done.
+
    
 
 
