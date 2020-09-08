@@ -19,6 +19,10 @@
 
 ### Coding
 
+1. The Standout Developer - [thestandoutdeveloper.com](https://www.thestandoutdeveloper.com/)
+2. Refactoring UI - [refactoringui.com](https://refactoringui.com/book/)
+3. Fullstack React - [www.newline.co/fullstack-react](https://www.newline.co/fullstack-react/)
+
 # Primary Resources on the #100DaysOfCode
 
 [The #100DaysOfCode Official Site](http://100daysofcode.com/)
