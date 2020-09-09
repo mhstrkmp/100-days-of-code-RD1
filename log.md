@@ -86,6 +86,11 @@ Responsive Web Design Path by [freeCodeCamp.org](https://www.freecodecamp.org/)
 Code comes more and more out of my brain.
 I have to spend less time looking up how things are done.
 
+### R1D13
+Responsive Web Design Path by [freeCodeCamp.org](https://www.freecodecamp.org/)
+- Today I worked on the Portfolio Page as part of the path.
+- Not done yet but here a link to my work so far: https://codepen.io/mhstrkmp/pen/GRZQrJW
+
    
 
 
