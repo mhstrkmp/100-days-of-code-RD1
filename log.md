@@ -1,3 +1,9 @@
+## Contents
+
+* [Rules](rules.md)
+* [Log - click here to see my progress](log.md)
+* [Resources](resources.md)
+
 # #100DaysOfCode Log - Round 1 - Matthias Heisterkamp
 
 The log of my #100DaysOfCode challenge. Started on August 28, Friday, 2020.
