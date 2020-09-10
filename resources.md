@@ -4,7 +4,6 @@
 
 ## Projects and Ideas
 1. [FreeCodeCamp](https://www.freecodecamp.com)
-2. [flexboxpatterns](https://www.flexboxpatterns.com/)
 
 ## Other resources
 1. List with different gradients - [uigradients.com](https://uigradients.com/)
@@ -12,16 +11,18 @@
 3. Web 2.0 Generators - [web2generators.com](https://www.web2generators.com/)
 4. Heroicons - [heroicons.dev](https://heroicons.dev/)
 5. Hero Patterns - [heropatterns.com](https://www.heropatterns.com/)
+6. Flexboxpatterns - [flexboxpatterns](https://www.flexboxpatterns.com/)
+7. Grid by Example - [gridbyexample.com/](https://gridbyexample.com/)
 
 ## Books (both coding and non-coding)
 
 ### Non-Coding
+1. The Standout Developer - [thestandoutdeveloper.com](https://www.thestandoutdeveloper.com/)
+2. Start Freelancing Today - [startfreelancing.today](https://startfreelancing.today/)
 
 ### Coding
-
-1. The Standout Developer - [thestandoutdeveloper.com](https://www.thestandoutdeveloper.com/)
-2. Refactoring UI - [refactoringui.com](https://refactoringui.com/book/)
-3. Fullstack React - [www.newline.co/fullstack-react](https://www.newline.co/fullstack-react/)
+1. Refactoring UI - [refactoringui.com](https://refactoringui.com/book/)
+2. Fullstack React - [www.newline.co/fullstack-react](https://www.newline.co/fullstack-react/)
 
 # Primary Resources on the #100DaysOfCode
 
