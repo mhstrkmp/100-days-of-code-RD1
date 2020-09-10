@@ -101,6 +101,9 @@ Responsive Web Design Path by [freeCodeCamp.org](https://www.freecodecamp.org/)
 Responsive Web Design Path by [freeCodeCamp.org](https://www.freecodecamp.org/)
 - Today I finished the basic Portfolio Page as part of the path.
 - Link to work: https://codepen.io/mhstrkmp/pen/GRZQrJW
+- 🎉 Finished Responsive Webdesign Path by @freeCodeCamp and got my [Certification](https://www.freecodecamp.org/certification/mhstrkmp/responsive-web-design).
+
+Next up: JavaScript
 
 
    
