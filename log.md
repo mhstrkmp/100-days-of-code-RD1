@@ -112,6 +112,11 @@ Think I'll finish the Basic JavaScript section tomorrow.
 
 Looking forward to learning about ES6.
 
+### R1D16
+
+Today I learned some JavaScript at [freeCodeCamp.org](https://www.freecodecamp.org/)
+The basic JavaScript section is nearly done.
+
 
    
 
