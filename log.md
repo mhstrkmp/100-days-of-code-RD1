@@ -117,6 +117,13 @@ Looking forward to learning about ES6.
 Today I learned some JavaScript at [freeCodeCamp.org](https://www.freecodecamp.org/)
 The basic JavaScript section is nearly done.
 
+### R1D17
+🎉 Finished the basic JavaScript section at [freeCodeCamp.org](https://www.freecodecamp.org/)
+- Some of the concepts were hard to grasp.
+- I'm pretty sure that I have to do a recap of all the things I've learned so far 😉
+
+Anyways a great day!
+
 
    
 
