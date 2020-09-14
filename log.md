@@ -106,14 +106,12 @@ Responsive Web Design Path by [freeCodeCamp.org](https://www.freecodecamp.org/)
 Next up: JavaScript
 
 ### R1D15
-
 Today I learned some JavaScript at [freeCodeCamp.org](https://www.freecodecamp.org/)
 Think I'll finish the Basic JavaScript section tomorrow.
 
 Looking forward to learning about ES6.
 
 ### R1D16
-
 Today I learned some JavaScript at [freeCodeCamp.org](https://www.freecodecamp.org/)
 The basic JavaScript section is nearly done.
 
@@ -123,6 +121,13 @@ The basic JavaScript section is nearly done.
 - I'm pretty sure that I have to do a recap of all the things I've learned so far 😉
 
 Anyways a great day!
+
+### R1D18
+Today i finished the ES6 section at [freeCodeCamp.org](https://www.freecodecamp.org/)
+
+Awesome to learn a more modern version of JavaScript.
+So far I really enjoyed it 🤗
+
 
 
    
