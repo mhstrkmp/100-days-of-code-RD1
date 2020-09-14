@@ -13,6 +13,9 @@
 5. Hero Patterns - [heropatterns.com](https://www.heropatterns.com/)
 6. Flexboxpatterns - [flexboxpatterns](https://www.flexboxpatterns.com/)
 7. Grid by Example - [gridbyexample.com/](https://gridbyexample.com/)
+8. free-for.dev - [free-for.dev](https://free-for.dev/)
+9. javascriptquiz.com - [javascriptquiz.com](https://javascriptquiz.com/)
+10. airbnb JavaScript Style Guide - https://github.com/airbnb/javascript
 
 ## Books (both coding and non-coding)
 
