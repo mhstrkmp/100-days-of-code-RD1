@@ -128,6 +128,10 @@ Today i finished the ES6 section at [freeCodeCamp.org](https://www.freecodecamp.
 Awesome to learn a more modern version of JavaScript.
 So far I really enjoyed it 🤗
 
+### R1D19
+Today I finished the Regular Expression section at [freeCodeCamp.org](https://www.freecodecamp.org/)
+It is a really well-crafted section with lots of good examples 👍
+
 
 
    
