@@ -132,6 +132,11 @@ So far I really enjoyed it 🤗
 Today I finished the Regular Expression section at [freeCodeCamp.org](https://www.freecodecamp.org/)
 It is a really well-crafted section with lots of good examples 👍
 
+### R1D20
+✅ Finished the Debugging section at #freeCodeCamp
+✅ Build my first React App following this awesome little tutorial by @ASpittel
+- https://dev.to/aspittel/a-complete-beginner-s-guide-to-react-hooks-edition-1bi0
+
 
 
    
