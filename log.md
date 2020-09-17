@@ -138,6 +138,11 @@ It is a really well-crafted section with lots of good examples 👍
 ✅ Build my first React App following this awesome little tutorial by @ASpittel
 - https://dev.to/aspittel/a-complete-beginner-s-guide-to-react-hooks-edition-1bi0
 
+### R1D21
+- Basic Data Structure by [freeCodeCamp.org](https://www.freecodecamp.org/)
+- Learned how To Create a Pull Request on GitHub based on this [well-written Tutorial](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github)
+- Made a Pull Request
+
 
 
    
