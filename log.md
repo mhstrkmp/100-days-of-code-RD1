@@ -143,6 +143,9 @@ It is a really well-crafted section with lots of good examples 👍
 - Learned how To Create a Pull Request on GitHub based on this [well-written Tutorial](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github)
 - Made a Pull Request
 
+### R1D22
+✅ Some more Basic Data Structure by [freeCodeCamp.org](https://www.freecodecamp.org/)
+✅ Review of what I've learned so far.
 
 
    
