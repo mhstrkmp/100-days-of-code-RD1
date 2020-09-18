@@ -145,6 +145,7 @@ It is a really well-crafted section with lots of good examples 👍
 
 ### R1D22
 ✅ Some more Basic Data Structure by [freeCodeCamp.org](https://www.freecodecamp.org/)
+
 ✅ Review of what I've learned so far.
 
 
