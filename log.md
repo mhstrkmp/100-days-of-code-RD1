@@ -152,7 +152,7 @@ It is a really well-crafted section with lots of good examples 👍
 
 Relaxed weekend session ...
 
-🎯 Finished the Basic Data Structure Section by #freeCodeCamp
+🎯 Finished the Basic Data Structure Section by [freeCodeCamp.org](https://www.freecodecamp.org/)
 
 ✅ Some reading and review
 
