@@ -148,6 +148,14 @@ It is a really well-crafted section with lots of good examples 👍
 
 ✅ Review of what I've learned so far.
 
+### R1D23
+
+Relaxed weekend session ...
+
+🎯 Finished the Basic Data Structure Section by #freeCodeCamp
+
+✅ Some reading and review
+
 
    
 
