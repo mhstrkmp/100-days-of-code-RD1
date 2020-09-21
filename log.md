@@ -159,3 +159,8 @@ Relaxed weekend session ...
 ✅ Some Basic Algorithm Scripting by [freeCodeCamp.org](https://www.freecodecamp.org/)
 
 🤗 Playtime with Next.js and Tailwind CSS
+
+### R1D25
+✅ More Basic Algorithm Scripting by [freeCodeCamp.org](https://www.freecodecamp.org/)
+
+✅ Digging deeper into Next.js and Tailwind CSS
