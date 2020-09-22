@@ -165,5 +165,5 @@ Relaxed weekend session ...
 
 ✅ Digging deeper into Next.js and Tailwind CSS
 
-### R1D25
+### R1D26
 Today I learned more about Next.js 🤗
