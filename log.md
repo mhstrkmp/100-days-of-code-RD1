@@ -167,3 +167,7 @@ Relaxed weekend session ...
 
 ### R1D26
 Today I learned more about Next.js 🤗
+
+### R1D27
+- Today I went through some Documentation and Tutorials by Github.
+- Did the Introduction to GitHub Course by the [GitHub Learning Lab](https://lab.github.com/).
