@@ -18,6 +18,7 @@
 10. airbnb JavaScript Style Guide - https://github.com/airbnb/javascript
 11. Responsive web design basics - https://web.dev/responsive-web-design-basics/
 12. A Complete Beginner's Guide to React: Hooks Edition - https://dev.to/aspittel/a-complete-beginner-s-guide-to-react-hooks-edition-1bi0
+13. GitHub Learning Lab - [GitHub Learning Lab](https://lab.github.com/)
 
 ## Books (both coding and non-coding)
 
