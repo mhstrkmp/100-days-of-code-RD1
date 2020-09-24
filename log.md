@@ -171,3 +171,6 @@ Today I learned more about Next.js 🤗
 ### R1D27
 - Today I went through some Documentation and Tutorials by Github.
 - Did the Introduction to GitHub Course by the [GitHub Learning Lab](https://lab.github.com/).
+
+### R1D28
+- Basic Algorithm Scripting by [freeCodeCamp.org](https://www.freecodecamp.org/)
