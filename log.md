@@ -176,5 +176,5 @@ Today I learned more about Next.js 🤗
 - Basic Algorithm Scripting by [freeCodeCamp.org](https://www.freecodecamp.org/)
 
 ### R1D29
-🎯 Finished the Basic Algorithm Scripting Section by #freeCodeCamp
+🎯 Finished the Basic Algorithm Scripting Section by [freeCodeCamp.org](https://www.freecodecamp.org/)
 - Progress with this section felt quite slow. But the concepts need time to soak in therefore I'm happy with it 😉
