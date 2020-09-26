@@ -30,6 +30,7 @@
 ### Coding
 1. Refactoring UI - [refactoringui.com](https://refactoringui.com/book/)
 2. Fullstack React - [www.newline.co/fullstack-react](https://www.newline.co/fullstack-react/)
+3. You don't know JavaScript yet - [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
 
 # Primary Resources on the #100DaysOfCode
 
