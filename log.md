@@ -178,3 +178,6 @@ Today I learned more about Next.js 🤗
 ### R1D29
 🎯 Finished the Basic Algorithm Scripting Section by [freeCodeCamp.org](https://www.freecodecamp.org/)
 - Progress with this section felt quite slow. But the concepts need time to soak in therefore I'm happy with it 😉
+
+### R1D30
+🎯 Finished the Object Oriented Programming Challenges by [freeCodeCamp.org](https://www.freecodecamp.org/)
