@@ -181,3 +181,6 @@ Today I learned more about Next.js 🤗
 
 ### R1D30
 🎯 Finished the Object Oriented Programming Challenges by [freeCodeCamp.org](https://www.freecodecamp.org/)
+
+### R1D31
+✅ Today I was working on the Functional Programming Challenges by [freeCodeCamp.org](https://www.freecodecamp.org/)
