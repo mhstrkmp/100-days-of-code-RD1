@@ -20,6 +20,7 @@
 12. A Complete Beginner's Guide to React: Hooks Edition - https://dev.to/aspittel/a-complete-beginner-s-guide-to-react-hooks-edition-1bi0
 13. GitHub Learning Lab - [GitHub Learning Lab](https://lab.github.com/)
 14. Learn faster typing - [keybr.com](https://www.keybr.com/)
+15. JONAS' RESOURCES FOR BUILDING BEAUTIFUL WEBSITES WITH HTML, CSS AND JAVASCRIPT - [codingheroes.io](http://codingheroes.io/resources/)
 
 ## Books (both coding and non-coding)
 
