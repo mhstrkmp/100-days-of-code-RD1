@@ -187,3 +187,8 @@ Today I learned more about Next.js 🤗
 
 ### R1D32
 ✅ Learned more about Git and GitHub at GitHub's Learning Lab.
+
+### R1D33
+The second day of my Web Development Bootcamp.
+
+I learned a lot of stuff about the Shell, Git, GitHub, Markdown ...
