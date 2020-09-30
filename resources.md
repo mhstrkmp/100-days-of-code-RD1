@@ -21,6 +21,8 @@
 13. GitHub Learning Lab - [GitHub Learning Lab](https://lab.github.com/)
 14. Learn faster typing - [keybr.com](https://www.keybr.com/)
 15. JONAS' RESOURCES FOR BUILDING BEAUTIFUL WEBSITES WITH HTML, CSS AND JAVASCRIPT - [codingheroes.io](http://codingheroes.io/resources/)
+16. ohshitgit - [ohshitgit.com](https://ohshitgit.com/)
+17. emojipedia - [emojipedia.org](https://emojipedia.org/)
 
 ## Books (both coding and non-coding)
 
