@@ -192,3 +192,10 @@ Today I learned more about Next.js 🤗
 The second day of my Web Development Bootcamp.
 
 I learned a lot of stuff about the Shell, Git, GitHub, Markdown ...
+
+### R1D34
+Day 3 of my Web Development Bootcamp.  
+A huge amount of Git, GitHub, VSCode sprinkled with a little bit of Markdown and HTML ... 😎
+
+Ever screwed up your commits?  
+👉 https://ohshitgit.com/
