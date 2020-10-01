@@ -199,3 +199,9 @@ A huge amount of Git, GitHub, VSCode sprinkled with a little bit of Markdown and
 
 Ever screwed up your commits?  
 👉 https://ohshitgit.com/
+
+### R1D35
+Day 4 of my Web Development Bootcamp.
+- Learned some more Git, HTML, and Bootstrap
+- First "official" pull request to a beautiful open source project.
+  - https://github.com/jayehernandez/letra-extension/pull/331
