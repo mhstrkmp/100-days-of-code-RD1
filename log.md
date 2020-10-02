@@ -206,6 +206,6 @@ Day 4 of my Web Development Bootcamp.
 - First "official" pull request to a beautiful open source project.
   - https://github.com/jayehernandez/letra-extension/pull/331
   
-### R1D35
+### R1D36
 Day 5 of my Web Development Bootcamp.
 - Today – Deep Dive into Bootstrap 🙌
