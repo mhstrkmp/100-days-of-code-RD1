@@ -209,3 +209,6 @@ Day 4 of my Web Development Bootcamp.
 ### R1D36
 Day 5 of my Web Development Bootcamp.
 - Today – Deep Dive into Bootstrap 🙌
+
+### R1D37
+- Working on a personal website as part of my Web Development bootcamp 🤩
