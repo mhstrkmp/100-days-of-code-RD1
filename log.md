@@ -212,3 +212,7 @@ Day 5 of my Web Development Bootcamp.
 
 ### R1D37
 - Working on a personal website as part of my Web Development bootcamp 🤩
+
+### R1D38
+✅ Working on a personal website as part of my Web Development Bootcamp.
+- It feels awesome when years of just tinkering around come together to create something new 🎉 
