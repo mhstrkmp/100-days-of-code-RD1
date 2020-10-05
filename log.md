@@ -216,3 +216,11 @@ Day 5 of my Web Development Bootcamp.
 ### R1D38
 ✅ Working on a personal website as part of my Web Development Bootcamp.
 - It feels awesome when years of just tinkering around come together to create something new 🎉 
+
+### R1D39
+Bootcamp Day 6
+- Learned to use Storybook.js. 
+- The website is nearly ready.  
+  - I'm quite happy as it is the first time I build something like this from scratch.
+  - https://mhstrkmp.github.io/bootstrap-portfolio-fun/
+
