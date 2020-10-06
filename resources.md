@@ -24,6 +24,7 @@
 16. ohshitgit - [ohshitgit.com](https://ohshitgit.com/)
 17. emojipedia - [emojipedia.org](https://emojipedia.org/)
 18. CSS Dinter -> Learn about CSS selectors - [flukeout.github.io](https://flukeout.github.io/)
+19. The Difference Between :nth-child and :nth-of-type - https://css-tricks.com/the-difference-between-nth-child-and-nth-of-type/
 
 ## Books (both coding and non-coding)
 
