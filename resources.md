@@ -23,7 +23,7 @@
 15. JONAS' RESOURCES FOR BUILDING BEAUTIFUL WEBSITES WITH HTML, CSS AND JAVASCRIPT - [codingheroes.io](http://codingheroes.io/resources/)
 16. ohshitgit - [ohshitgit.com](https://ohshitgit.com/)
 17. emojipedia - [emojipedia.org](https://emojipedia.org/)
-18. Learn about CSS selectors - [flukeout.github.io](https://flukeout.github.io/)
+18. CSS Dinter -> Learn about CSS selectors - [flukeout.github.io](https://flukeout.github.io/)
 
 ## Books (both coding and non-coding)
 
