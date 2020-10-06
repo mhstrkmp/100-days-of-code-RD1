@@ -223,4 +223,11 @@ Bootcamp Day 6
 - The website is nearly ready.  
   - I'm quite happy as it is the first time I build something like this from scratch.
   - https://mhstrkmp.github.io/bootstrap-portfolio-fun/
+  
+### R1D40
+Bootcamp Day 7
+
+- Learned about CSS selectors
+- More CSS and Storybook.js
+
 
