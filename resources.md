@@ -25,6 +25,7 @@
 17. emojipedia - [emojipedia.org](https://emojipedia.org/)
 18. CSS Dinter -> Learn about CSS selectors - [flukeout.github.io](https://flukeout.github.io/)
 19. The Difference Between :nth-child and :nth-of-type - https://css-tricks.com/the-difference-between-nth-child-and-nth-of-type/
+20. CSS Examples and use-cases - [quackit.com](https://www.quackit.com/css/examples/)
 
 ## Books (both coding and non-coding)
 
