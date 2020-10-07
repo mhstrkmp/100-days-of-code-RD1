@@ -230,4 +230,9 @@ Bootcamp Day 7
 - Learned about CSS selectors
 - More CSS and Storybook.js
 
+### R1D41
+Bootcamp Day 8
+- HTML, CSS and Storybook.js in general
+- Flexbox
+
 
