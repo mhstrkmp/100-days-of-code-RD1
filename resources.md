@@ -27,6 +27,7 @@
 19. The Difference Between :nth-child and :nth-of-type - https://css-tricks.com/the-difference-between-nth-child-and-nth-of-type/
 20. CSS Examples and use-cases - [quackit.com](https://www.quackit.com/css/examples/)
 21. Interactive Code Playgrounds - [Codepip](https://codepip.com/)
+22. Learn Flexbox with [flexboxfrogy.com](https://flexboxfroggy.com/)
 
 ## Books (both coding and non-coding)
 
