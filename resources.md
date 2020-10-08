@@ -28,6 +28,11 @@
 20. CSS Examples and use-cases - [quackit.com](https://www.quackit.com/css/examples/)
 21. Interactive Code Playgrounds - [Codepip](https://codepip.com/)
 22. Learn Flexbox with [flexboxfrogy.com](https://flexboxfroggy.com/)
+23. Awesome CSS Grid resource - https://1linelayouts.glitch.me/
+24. Learn CSS Grid with [cssgridgarden.com/](https://cssgridgarden.com/)
+25. Testing Websites for browser compatibility - https://www.lambdatest.com/
+26. BEM - http://getbem.com/
+27. BEM 101 by CSS-Tricks - https://css-tricks.com/bem-101/
 
 ## Books (both coding and non-coding)
 
