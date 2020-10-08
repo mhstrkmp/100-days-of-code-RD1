@@ -235,4 +235,10 @@ Bootcamp Day 8
 - HTML, CSS and Storybook.js in general
 - Flexbox
 
+### R1D42
+Bootcamp Day 9
+- CSS custom properties
+- CSS Grid
+- BEM
+
 
