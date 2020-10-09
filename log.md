@@ -241,4 +241,10 @@ Bootcamp Day 9
 - CSS Grid
 - BEM
 
+### R1D43
+Bootcamp Day 10
+
+- Such an inspiring Day!
+- Pair programming the whole Day. It's so enlightening to follow someone's thoughts about how to code piece by piece 🙌
+
 
