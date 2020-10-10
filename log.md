@@ -247,4 +247,7 @@ Bootcamp Day 10
 - Such an inspiring Day!
 - Pair programming the whole Day. It's so enlightening to follow someone's thoughts about how to code piece by piece 🙌
 
-
+### R1D44
+- Working on some open-source contributions.
+- Pull Request was accepted and merged 🎉
+  - https://github.com/alfg/opendrinks/pull/851
