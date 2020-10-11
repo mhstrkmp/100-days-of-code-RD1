@@ -251,3 +251,7 @@ Bootcamp Day 10
 - Working on some open-source contributions.
 - Pull Request was accepted and merged 🎉
   - https://github.com/alfg/opendrinks/pull/851
+
+### R1D45
+- Today was mostly relaxed
+- Some code review and studying
