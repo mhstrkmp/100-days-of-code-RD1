@@ -35,6 +35,7 @@
 27. BEM 101 by CSS-Tricks - https://css-tricks.com/bem-101/
 28. Framework for Flexbox - [bulma.io/](https://bulma.io/)
 29. Validate JSON files - [jsonlint.com](https://jsonlint.com/)
+30. https://javascript.info/
 
 ## Books (both coding and non-coding)
 
