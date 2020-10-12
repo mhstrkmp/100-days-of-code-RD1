@@ -255,3 +255,7 @@ Bootcamp Day 10
 ### R1D45
 - Today was mostly relaxed
 - Some code review and studying
+
+### R1D46
+Bootcamp Day 11
+- Introduction to JavaScript and how to use it for making components in Storybook.js 
