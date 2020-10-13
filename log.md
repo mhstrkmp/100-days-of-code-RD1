@@ -258,4 +258,9 @@ Bootcamp Day 10
 
 ### R1D46
 Bootcamp Day 11
-- Introduction to JavaScript and how to use it for making components in Storybook.js 
+- Introduction to JavaScript and how to use it for making components in Storybook.js
+
+### R1D47
+Bootcamp Day 12
+- UX and UI Design Workshop
+- JavaScript
