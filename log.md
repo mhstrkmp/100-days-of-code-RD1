@@ -264,3 +264,8 @@ Bootcamp Day 11
 Bootcamp Day 12
 - UX and UI Design Workshop
 - JavaScript
+
+### R1D48
+Bootcamp Day 13
+- JavaScript
+  - especially how to keep your code clean and structured.
