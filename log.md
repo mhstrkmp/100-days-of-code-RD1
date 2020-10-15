@@ -269,3 +269,10 @@ Bootcamp Day 12
 Bootcamp Day 13
 - JavaScript
   - especially how to keep your code clean and structured.
+  
+### R1D49
+Bootcamp Day 14
+- JavaScript
+  - Object Destructuring
+  - Rest Parameters
+  - Spread syntax ...
