@@ -276,3 +276,9 @@ Bootcamp Day 14
   - Object Destructuring
   - Rest Parameters
   - Spread syntax ...
+  
+### R1D50
+Bootcamp Day 15
+- So proud! I'm halfway through the challenge.
+- My Brain and JavaScript starting a friendship ...
+- Building reusable Components in Storybook.js with JavaScript.
