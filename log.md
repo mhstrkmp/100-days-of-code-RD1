@@ -287,3 +287,9 @@ Bootcamp Day 15
 - Relaxed weekend coding session
 - Working a bit on our project from Friday
 
+### R1D52
+- Learning about Git and GitHub
+- Stumbled upon those cool Github Templates 😎
+
+### R1D53
+- One day off 🏝
