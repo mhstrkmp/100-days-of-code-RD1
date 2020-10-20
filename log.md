@@ -293,3 +293,13 @@ Bootcamp Day 15
 
 ### R1D53
 - One day off 🏝
+
+### R1D54
+- Webpack
+- JavaScript
+
+Strange day 🤔
+
+When our coach described something it felt logical and I could follow along without any problems. 
+
+When I had to do it on my own ...
