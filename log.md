@@ -303,3 +303,7 @@ Strange day 🤔
 When our coach described something it felt logical and I could follow along without any problems. 
 
 When I had to do it on my own ...
+
+### R1D55
+- JavaScript
+- Api
