@@ -36,6 +36,7 @@
 28. Framework for Flexbox - [bulma.io/](https://bulma.io/)
 29. Validate JSON files - [jsonlint.com](https://jsonlint.com/)
 30. https://javascript.info/
+31. https://rickandmortyapi.com/
 
 ## Books (both coding and non-coding)
 
