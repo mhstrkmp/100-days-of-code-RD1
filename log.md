@@ -307,3 +307,9 @@ When I had to do it on my own ...
 ### R1D55
 - JavaScript
 - Api
+
+### R1D56
+- JavaScript
+  - Infinite loading while scrolling down
+  - local storage
+- Working with the Rick & Morty API
