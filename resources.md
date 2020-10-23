@@ -37,6 +37,7 @@
 29. Validate JSON files - [jsonlint.com](https://jsonlint.com/)
 30. https://javascript.info/
 31. https://rickandmortyapi.com/
+32. https://devhints.io/
 
 ## Books (both coding and non-coding)
 
