@@ -313,3 +313,10 @@ When I had to do it on my own ...
   - Infinite loading while scrolling down
   - local storage
 - Working with the Rick & Morty API
+
+### R1D57
+- JavaScript
+- Working with API's
+
+Personal insight of today:  
+If you want your function to run don't place it after the outer functions return statement ... 🤦‍♂️
