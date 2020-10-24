@@ -320,3 +320,7 @@ When I had to do it on my own ...
 
 Personal insight of today:  
 If you want your function to run don't place it after the outer functions return statement ... 🤦‍♂️
+
+### R1D58
+- JavaScript
+- CodeReview
