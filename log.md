@@ -324,3 +324,8 @@ If you want your function to run don't place it after the outer functions return
 ### R1D58
 - JavaScript
 - CodeReview
+
+### R1D59
+- JavaScript
+- Code Review
+- Working with the [Tronald Dump API](https://tronalddump.io)
