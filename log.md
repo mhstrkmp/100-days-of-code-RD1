@@ -329,3 +329,8 @@ If you want your function to run don't place it after the outer functions return
 - JavaScript
 - Code Review
 - Working with the [Tronald Dump API](https://tronalddump.io)
+
+### R1D60
+- JavaScript
+- Code Review
+- Introduction to React
