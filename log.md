@@ -334,3 +334,9 @@ If you want your function to run don't place it after the outer functions return
 - JavaScript
 - Code Review
 - Introduction to React
+
+### R1D61
+- JavaScript
+- Code Review
+- React with API‘s
+
