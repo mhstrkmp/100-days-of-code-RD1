@@ -340,3 +340,10 @@ If you want your function to run don't place it after the outer functions return
 - Code Review
 - React with API‘s
 
+### R1D62
+- JavaScript
+- Code Review
+- React with API‘s
+- Test-Driven Development
+
+Great day but my brain is exploding ...
