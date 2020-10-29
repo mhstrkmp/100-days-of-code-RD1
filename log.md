@@ -347,3 +347,9 @@ If you want your function to run don't place it after the outer functions return
 - Test-Driven Development
 
 Great day but my brain is exploding ...
+
+### R1D63
+- JavaScript
+- React
+- Testing with Jest
+- Continuous Integration
