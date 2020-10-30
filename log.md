@@ -353,3 +353,9 @@ Great day but my brain is exploding ...
 - React
 - Testing with Jest
 - Continuous Integration
+
+### R1D64
+- React
+- Continuous Integration
+- Test-driven development
+
