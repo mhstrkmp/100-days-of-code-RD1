@@ -359,3 +359,10 @@ Great day but my brain is exploding ...
 - Continuous Integration
 - Test-driven development
 
+### R1D65
+- Code review
+- React
+- Test-driven development
+
+
+
