@@ -364,5 +364,8 @@ Great day but my brain is exploding ...
 - React
 - Test-driven development
 
-
+### R1D66
+- Todo App in React
+  - following DevEd tutorial https://youtu.be/pCA4qpQDZD8
+  - it really helps to get a better understanding of React.js
 
