@@ -368,4 +368,9 @@ Great day but my brain is exploding ...
 - Todo App in React
   - following DevEd tutorial https://youtu.be/pCA4qpQDZD8
   - it really helps to get a better understanding of React.js
+  
+### R1D67
+- React
+- Storybook
+- Styled-Components
 
