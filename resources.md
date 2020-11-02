@@ -38,6 +38,16 @@
 30. https://javascript.info/
 31. https://rickandmortyapi.com/
 32. https://devhints.io/
+33. https://styled-components.com/
+34. https://testing-library.com/
+35. https://create-react-app.dev/
+36. https://asoftmurmur.com/
+37. https://bundlephobia.com/
+38. https://serenade.ai/
+39. https://insomnia.rest/
+40. https://robohash.org/
+41. https://opencollective.com/
+42. https://coda.io/welcome
 
 ## Books (both coding and non-coding)
 
