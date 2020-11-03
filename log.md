@@ -374,3 +374,8 @@ Great day but my brain is exploding ...
 - Storybook
 - Styled-Components
 
+### R1D68
+- React
+- Storybook
+- React Router
+
