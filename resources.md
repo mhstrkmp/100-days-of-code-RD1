@@ -50,6 +50,9 @@
 - https://robohash.org/
 - https://opencollective.com/
 - https://coda.io/welcome
+- https://regexr.com/
+- https://styled-components.com/
+- https://reactrouter.com/web/guides/quick-start
 
 ## Books (both coding and non-coding)
 
