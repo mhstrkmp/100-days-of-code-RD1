@@ -53,6 +53,7 @@
 - https://regexr.com/
 - https://styled-components.com/
 - https://reactrouter.com/web/guides/quick-start
+- https://github.com/typicode/json-server
 
 ## Books (both coding and non-coding)
 
