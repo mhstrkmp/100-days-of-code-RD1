@@ -55,6 +55,8 @@
 - https://reactrouter.com/web/guides/quick-start
 - https://github.com/typicode/json-server
 - https://www.npmjs.com/package/concurrently
+- https://github.com/okonet/lint-staged
+- https://github.com/typicode/husky
 
 ## Books (both coding and non-coding)
 
