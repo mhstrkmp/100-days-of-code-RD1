@@ -473,3 +473,9 @@ Great day but my brain is exploding ...
 - React Router
 - URL params in React
 - Build a fake REST API with JSON Server
+
+### R1D70
+
+- React
+- Build a fake REST API with JSON Server
+- API Methods
