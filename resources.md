@@ -54,6 +54,7 @@
 - https://styled-components.com/
 - https://reactrouter.com/web/guides/quick-start
 - https://github.com/typicode/json-server
+- https://www.npmjs.com/package/concurrently
 
 ## Books (both coding and non-coding)
 
