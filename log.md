@@ -479,3 +479,9 @@ Great day but my brain is exploding ...
 - React
 - Build a fake REST API with JSON Server
 - API Methods
+
+### R1D71
+
+- React
+- JavaScript
+- regex

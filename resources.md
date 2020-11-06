@@ -57,6 +57,7 @@
 - https://www.npmjs.com/package/concurrently
 - https://github.com/okonet/lint-staged
 - https://github.com/typicode/husky
+- https://weblate.org/en/
 
 ## Books (both coding and non-coding)
 
