@@ -485,3 +485,9 @@ Great day but my brain is exploding ...
 - React
 - JavaScript
 - regex
+
+### R1D72
+
+- React
+- JavaScript
+- Chrome Extension
