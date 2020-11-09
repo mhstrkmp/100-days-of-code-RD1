@@ -493,3 +493,8 @@ Great day but my brain is exploding ...
 - Chrome Extension
 
 ### R1D73
+
+- React
+- JavaScript
+- Learning about developing a browser extension
+- Building a Fake API with json-server
