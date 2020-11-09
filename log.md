@@ -498,3 +498,9 @@ Great day but my brain is exploding ...
 - JavaScript
 - Learning about developing a browser extension
 - Building a Fake API with json-server
+
+### R1D74
+
+- Code review
+- Learned to fork and contribute to other projects
+- Learned to solve merge conflicts

@@ -58,6 +58,7 @@
 - https://github.com/okonet/lint-staged
 - https://github.com/typicode/husky
 - https://weblate.org/en/
+- https://lottiefiles.com/
 
 ## Books (both coding and non-coding)
 
