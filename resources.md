@@ -59,6 +59,9 @@
 - https://github.com/typicode/husky
 - https://weblate.org/en/
 - https://lottiefiles.com/
+- https://github.com/substack/minimist
+- https://github.com/SBoudrias/Inquirer.js
+- https://github.com/brix/crypto-js
 
 ## Books (both coding and non-coding)
 

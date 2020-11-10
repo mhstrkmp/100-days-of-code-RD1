@@ -504,3 +504,8 @@ Great day but my brain is exploding ...
 - Code review
 - Learned to fork and contribute to other projects
 - Learned to solve merge conflicts
+
+### R1D75
+
+- Node
+- Build JavaScript CLI App
