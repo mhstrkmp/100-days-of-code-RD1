@@ -509,3 +509,9 @@ Great day but my brain is exploding ...
 
 - Node
 - Build JavaScript CLI App
+
+### R1D76
+
+- Node
+- JavaScript
+- Building a CLI Password Manager
