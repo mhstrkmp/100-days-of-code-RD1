@@ -515,3 +515,11 @@ Great day but my brain is exploding ...
 - Node
 - JavaScript
 - Building a CLI Password Manager
+
+### R1D77
+
+- Node
+- JavaScript
+- MongoDB and MongoDB Atlas
+- Building a CLI Password Manager
+  -️ Lean Coffee
