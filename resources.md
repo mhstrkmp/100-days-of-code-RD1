@@ -62,6 +62,12 @@
 - https://github.com/substack/minimist
 - https://github.com/SBoudrias/Inquirer.js
 - https://github.com/brix/crypto-js
+- https://www.npmjs.com/package/dotenv
+- https://projekte-leicht-gemacht.de/blog/pm-in-der-praxis/beispiele-personal-kanban-boards/
+- https://www.mentimeter.com/
+- https://robomongo.org/
+- https://bitwarden.com/
+- https://carrd.co/
 
 ## Books (both coding and non-coding)
 

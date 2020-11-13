@@ -522,4 +522,13 @@ Great day but my brain is exploding ...
 - JavaScript
 - MongoDB and MongoDB Atlas
 - Building a CLI Password Manager
-  -️ Lean Coffee
+- Lean Coffee
+
+### R1D78
+
+- Node
+- JavaScript
+- MongoDB and MongoDB Atlas
+- CRUD
+- Building a CLI Password Manager
+- Agile Workshop
