@@ -532,3 +532,11 @@ Great day but my brain is exploding ...
 - CRUD
 - Building a CLI Password Manager
 - Agile Workshop
+
+### R1D79
+
+- Node
+- JavaScript
+- MongoDB and MongoDB Atlas
+- CRUD
+- Building a CLI Password Manager
