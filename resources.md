@@ -68,6 +68,7 @@
 - https://robomongo.org/
 - https://bitwarden.com/
 - https://carrd.co/
+- https://whimsical.com/
 
 ## Books (both coding and non-coding)
 

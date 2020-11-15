@@ -540,3 +540,7 @@ Great day but my brain is exploding ...
 - MongoDB and MongoDB Atlas
 - CRUD
 - Building a CLI Password Manager
+
+### R1D80
+
+Today less coding more research and planning about upcoming projects.
