@@ -69,6 +69,9 @@
 - https://bitwarden.com/
 - https://carrd.co/
 - https://whimsical.com/
+- https://sentry.io/
+- https://nodemon.io/
+- http://expressjs.com/
 
 ## Books (both coding and non-coding)
 

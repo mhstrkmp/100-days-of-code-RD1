@@ -544,3 +544,8 @@ Great day but my brain is exploding ...
 ### R1D80
 
 Today less coding more research and planning about upcoming projects.
+
+### R1D81
+
+- Node
+- Express
