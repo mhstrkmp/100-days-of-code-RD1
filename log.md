@@ -549,3 +549,8 @@ Today less coding more research and planning about upcoming projects.
 
 - Node
 - Express
+
+### R1D82
+
+- Design Workshop about building Prototypes in Adobe XD
+- Learned how to get "create-react-app" to work with my API
