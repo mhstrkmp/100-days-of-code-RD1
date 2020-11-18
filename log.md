@@ -554,3 +554,9 @@ Today less coding more research and planning about upcoming projects.
 
 - Design Workshop about building Prototypes in Adobe XD
 - Learned how to get "create-react-app" to work with my API
+
+### R1D83
+
+- Node
+- MongoDB
+- React
