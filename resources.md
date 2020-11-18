@@ -73,6 +73,8 @@
 - https://nodemon.io/
 - http://expressjs.com/
 - https://www.newline.co/fullstack-react/articles/using-create-react-app-with-a-server/
+- https://react-query.tanstack.com/
+- https://react-hook-form.com/
 
 ## Books (both coding and non-coding)
 
