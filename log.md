@@ -560,3 +560,4 @@ Today less coding more research and planning about upcoming projects.
 - Node
 - MongoDB
 - React
+- Implementing a proxy server
