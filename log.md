@@ -561,3 +561,9 @@ Today less coding more research and planning about upcoming projects.
 - MongoDB
 - React
 - Implementing a proxy server
+
+### R1D84
+
+- React Hooks
+- Building a deployment pipeline with GitHub and Heroku
+- Deployment of a boilerplate create react app including Storybook 🔥🔥🔥

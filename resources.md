@@ -75,6 +75,9 @@
 - https://www.newline.co/fullstack-react/articles/using-create-react-app-with-a-server/
 - https://react-query.tanstack.com/
 - https://react-hook-form.com/
+- https://hackernoon.com/a-guide-to-hashing-how-to-keep-your-database-safe-4n1fq31nz
+- https://beautifulinteractions.github.io/beautiful-react-hooks/
+- https://react-hooks-cheatsheet.com/
 
 ## Books (both coding and non-coding)
 
