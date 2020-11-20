@@ -567,3 +567,14 @@ Today less coding more research and planning about upcoming projects.
 - React Hooks
 - Building a deployment pipeline with GitHub and Heroku
 - Deployment of a boilerplate create react app including Storybook 🔥🔥🔥
+
+### R1D85
+
+Building a repository template to showcase portfolio projects.
+
+It will include:
+
+- Express.js for serving
+- Create-React-App to show the App itself
+- Storybook for developing and feature components
+- ESLint, Prettier ...
