@@ -579,6 +579,10 @@ It will include:
 - Storybook for developing and feature components
 - ESLint, Prettier ...
 
-### R1D85
+### R1D86
 
 Working on my repository template for portfolio projects.
+
+### R1D87
+
+Learning about git tag and GitHub Actions
