@@ -586,3 +586,9 @@ Working on my repository template for portfolio projects.
 ### R1D87
 
 Learning about git tag and GitHub Actions
+
+### R1D88
+
+Today is the day. After those intense and awesome last weeks in Bootcamp, it's project time.
+
+Now I've to build my very own app as completion. I'm gonna build an app to get rid of some clunky processes in craftsmanship ...
