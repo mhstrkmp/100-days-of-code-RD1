@@ -592,3 +592,8 @@ Learning about git tag and GitHub Actions
 Today is the day. After those intense and awesome last weeks in Bootcamp, it's project time.
 
 Now I've to build my very own app as completion. I'm gonna build an app to get rid of some clunky processes in craftsmanship ...
+
+### R1D89
+
+- TDD Workshop with Jest and Cypress
+- Prototyping with AdobeXD
