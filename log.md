@@ -597,3 +597,8 @@ Now I've to build my very own app as completion. I'm gonna build an app to get r
 
 - TDD Workshop with Jest and Cypress
 - Prototyping with AdobeXD
+
+### R1D90
+
+- TypeScript Workshop
+- Prototyping with AdobeXD

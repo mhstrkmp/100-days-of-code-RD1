@@ -78,6 +78,7 @@
 - https://hackernoon.com/a-guide-to-hashing-how-to-keep-your-database-safe-4n1fq31nz
 - https://beautifulinteractions.github.io/beautiful-react-hooks/
 - https://react-hooks-cheatsheet.com/
+- https://github.com/DefinitelyTyped/DefinitelyTyped
 
 ## Books (both coding and non-coding)
 
