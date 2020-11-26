@@ -602,3 +602,8 @@ Now I've to build my very own app as completion. I'm gonna build an app to get r
 
 - TypeScript Workshop
 - Prototyping with AdobeXD
+
+### R1D91
+
+- Design and Prototyping with AdobeXD
+- Set up a project in GitHub

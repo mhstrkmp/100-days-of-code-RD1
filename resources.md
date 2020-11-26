@@ -79,6 +79,7 @@
 - https://beautifulinteractions.github.io/beautiful-react-hooks/
 - https://react-hooks-cheatsheet.com/
 - https://github.com/DefinitelyTyped/DefinitelyTyped
+- https://github.com/sumup-oss/circuit-ui
 
 ## Books (both coding and non-coding)
 
