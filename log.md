@@ -607,3 +607,11 @@ Now I've to build my very own app as completion. I'm gonna build an app to get r
 
 - Design and Prototyping with AdobeXD
 - Set up a project in GitHub
+
+### R1D91
+
+- Design and Prototyping with AdobeXD
+- Configure project in GitHub
+- Review several Projects
+
+Looking forward to next week when it's gonna be more coding ...
