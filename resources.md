@@ -80,6 +80,8 @@
 - https://react-hooks-cheatsheet.com/
 - https://github.com/DefinitelyTyped/DefinitelyTyped
 - https://github.com/sumup-oss/circuit-ui
+- https://www.freecodecamp.org/news/how-to-add-search-to-a-react-app-with-fuse-js/
+- https://fusejs.io/
 
 ## Books (both coding and non-coding)
 
