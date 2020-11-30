@@ -623,3 +623,8 @@ Looking forward to next week when it's gonna be more coding ...
 ### R1D94
 
 - Today mostly finishing the Design and Prototype of my Project.
+
+### R1D95
+
+- Finished the Design and Prototype after review.
+- Finally Coding!!!
