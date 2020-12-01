@@ -628,3 +628,9 @@ Looking forward to next week when it's gonna be more coding ...
 
 - Finished the Design and Prototype after review.
 - Finally Coding!!!
+
+### R1D96
+
+- Mostly working with React Router
+- Getting my feets wet with TypeScript
+- Snapshot Testing
