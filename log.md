@@ -634,3 +634,13 @@ Looking forward to next week when it's gonna be more coding ...
 - Mostly working with React Router
 - Getting my feets wet with TypeScript
 - Snapshot Testing
+
+### R1D97
+
+- Building styled components
+- Working in storybook
+
+### R1D98
+
+- Building styled components
+- Working in storybook
