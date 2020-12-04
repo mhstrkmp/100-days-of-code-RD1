@@ -83,6 +83,7 @@
 - https://www.freecodecamp.org/news/how-to-add-search-to-a-react-app-with-fuse-js/
 - https://fusejs.io/
 - https://www.cypress.io/
+- https://www.sitepoint.com/react-with-typescript-best-practices/
 
 ## Books (both coding and non-coding)
 
