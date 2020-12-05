@@ -649,3 +649,10 @@ Looking forward to next week when it's gonna be more coding ...
 
 - Building styled components
 - Working in storybook
+
+### R1D100
+
+Not over yet 😉
+
+I missed two days which I'll append as promised ...
+Today I was working with React and Styled Components.
