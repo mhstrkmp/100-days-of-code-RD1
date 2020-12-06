@@ -84,6 +84,7 @@
 - https://fusejs.io/
 - https://www.cypress.io/
 - https://www.sitepoint.com/react-with-typescript-best-practices/
+- https://github.com/elsewhencode/project-guidelines
 
 ## Books (both coding and non-coding)
 

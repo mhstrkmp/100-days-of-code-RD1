@@ -656,3 +656,8 @@ Not over yet 😉
 
 I missed two days which I'll append as promised ...
 Today I was working with React and Styled Components.
+
+### R1D101
+
+- Great day!
+- Getting in the flow with React
