@@ -661,3 +661,15 @@ Today I was working with React and Styled Components.
 
 - Great day!
 - Getting in the flow with React
+
+### R1D102
+
+It's done! I've successfully finished #100DaysOfCode 🎉
+
+Things I've learned throughout this Challenge:
+
+- It helps to not do this alone. Connect with like-minded people to learn something new. This will supercharge your process and is way more fun.
+- You can learn a lot of new things if you making a consistent process. There will be days when you're not able to do much and other days when you rock it. It doesn't matter how much you've learned in one day as long as you learn something every day.
+- Start building things on your own as soon as possible. All those tutorials are great but use them mostly to start or if you want to get an overview of something. Building things is what moves you further.
+- Trust yourself. Don't give up too early when you're stuck. Take a break or go on with another thing. Revisit the problem a few days later and you'll often understand it quite magically ...
+- This challenge helped me to learn and was the perfect preparation for my boot camp. I highly recommend you to take part if you want to learn to code quickly and make it a habit.
